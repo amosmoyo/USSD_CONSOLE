@@ -29,7 +29,7 @@ namespace USSD_MENU
                         Console.WriteLine("Your Ministatement is 200");
                         break;
                     case (int)MenuChoices.fullstatement:
-                        Console.WriteLine("Your fullstatement request has been sent to your phone");
+                        Console.WriteLine("Your fullstatement request has been sent to your email");
                         break;
                     case (int)MenuChoices.exit:
                         Console.WriteLine("Are you sure you what to quit this operation? Y/N?");
