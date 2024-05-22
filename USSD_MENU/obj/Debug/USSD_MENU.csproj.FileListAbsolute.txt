@@ -1,0 +1,7 @@
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\bin\Debug\USSD_MENU.exe.config
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\bin\Debug\USSD_MENU.exe
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\bin\Debug\USSD_MENU.pdb
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\obj\Debug\USSD_MENU.csproj.AssemblyReference.cache
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\obj\Debug\USSD_MENU.csproj.CoreCompileInputs.cache
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\obj\Debug\USSD_MENU.exe
+C:\Users\Amos.Moyo\source\repos\USSD_MENU\USSD_MENU\obj\Debug\USSD_MENU.pdb
